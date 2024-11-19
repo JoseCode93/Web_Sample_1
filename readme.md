@@ -1,10 +1,11 @@
 # Exercise 1
 
-- Crear un documento HTML con la estructura básica (sample1.html)
-- Agregar un comentario al inicio del documento
-- Agregar un título a la página
-- Agregar varios párrafo
-- Agregar un titulo a las listas siguiente
+    - Crear un documento HTML con la estructura básica (sample1.html)
+    - Agregar un comentario al inicio del documento
+    - Agregar un título a la página
+    - Agregar varios párrafo
+    - Agregar un titulo a las listas siguiente
+
 - Agregar una lista desordenada con 3 elementos
 - Agrega una lista desordenada con 3 elementos cada uno
   con una lista anidada con 3 elementos
